@@ -23,6 +23,7 @@ feeds:
   - "https://nahbnow.com/feed/"                        # National Assoc. of Home Builders news
   - "https://www.constructiondive.com/feeds/news/"     # Construction industry news
   - "https://www.housingwire.com/feed/"                # Housing market news
+  - "https://rss.bizjournals.com/feed/122fd6c759daf3a88f52fb866b48ae559b692340/15320?market=cleveland&selectortype=channel&selectorvalue=1,6,2,3,4,13,17,5,9,10,18,7,11,12,14,15,8,16"
 
 # ---------------------------------------------------------------------
 # WHERE YOUR BRIEF GETS DELIVERED.
